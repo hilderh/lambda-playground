@@ -1,0 +1,30 @@
+{
+  "name": "lambda-playground",
+  "version": "0.0.1",
+  "description": "Is a repository to play with lambda and Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilderh/lambda-playground.git"
+  },
+  "keywords": [
+    "lambda",
+    "nodejs",
+    "dynamo",
+    "test",
+    "coverage"
+  ],
+  "author": "Hilder Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hilderh/lambda-playground/issues"
+  },
+  "homepage": "https://github.com/hilderh/lambda-playground#readme",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0"
+  }
+}
